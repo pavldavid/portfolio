@@ -1,0 +1,53 @@
+nav{
+    border-radius: 5px;
+}
+
+header{
+    padding-bottom: 20px;
+}
+
+img{
+    height: 250px;
+}
+#adminbody{
+    background-color: #b19cd9;
+}
+
+#tablediv{
+    background-color: #F7F9F9;
+}
+
+#confirmBody{
+    background-color: #cdeac0;
+}
+
+#guestbody{
+    background-color: #cdeac0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#resumebody{
+    background-color: #98AFC7;
+}
+
+.err {
+    color: darkred;
+    display: none;
+}
+
+#contact {
+    background-color: #bee3db;
+}
+
+#meeting {
+    background-color: #89b0ae;
+}
+
+#mailing {
+    background-color: #a3cef1;
+}
+
+fieldset {
+    border-radius: 10px;
+}
+
